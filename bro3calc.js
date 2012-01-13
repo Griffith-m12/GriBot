@@ -1,4 +1,6 @@
-﻿/*jslint white: true, nomen: true, regexp: true, bitwise: true, evil: true, forin: true, windows: true, browser: true, devel: true, continue: true, sub: true, fragment: true, cap: true, on: true, css: true, maxerr: 50, indent: 2 */
+﻿// bro3calc.js
+// cscript で読み込む時にはBOM有りUTF-8ファイルであること
+/*jslint white: true, nomen: true, regexp: true, bitwise: true, evil: true, forin: true, windows: true, browser: true, devel: true, continue: true, sub: true, fragment: true, cap: true, on: true, css: true, maxerr: 50, indent: 2 */
 
 if (typeof bro3calc === 'undefined') {
   var bro3calc = {};
